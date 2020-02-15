@@ -4,6 +4,8 @@
 
 ### Steps for cleaning and analyzing
 
+* Filtered the data to only include farms in the U.S. 
+
 * Expanded rows
 
 * Searched for and filled in blanks in "required" operational and date columns
