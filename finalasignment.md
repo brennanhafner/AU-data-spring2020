@@ -1,0 +1,42 @@
+Headline
+
+Subhead maybe
+
+## Brennan Hafner
+
+When floods rocked the Midwest agriculture industry in spring of 2019, preventing a record high [20 million acres](https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/crop-acreage-data/index) of crops from being planted, farmers who prepared their soil to better hold and filter water by planting cover crops weren’t supposed to be [prevented](https://www.sare.org/Learning-Center/Topic-Rooms/Cover-Crops) from planting, but the timing and intensity of the flooding left farmers of all types out to dry.
+
+Many farmers who planted [cover crops](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/ny/technical/?cid=nrcs144p2_027252), plants that are sown to cover a field after the main cash crop is harvested, exemplified the benefits that research suggests comes with investing in cover crops.
+
+Joe Rothermel, a farmer in Illinois who has planted cover crops on his farm for over a decade, said he had noticeably less standing water on his fields than his neighbors and was able to get in his fields 30 days before the farmers around him. “My neighbors were coming over and telling me they couldn’t get their planters on the field because they kept getting stuck in the mud.” 
+
+Many of Rothermel’s fellow farmers didn’t ever make it into their fields, forcing them to file prevented acres. [Prevented acres](https://www.rma.usda.gov/en/Topics/Prevented-Planting) are the fields farmers are unable to sow because of wet conditions and severe weather. Even though farmers get insurance payouts for the lost acreage, it is often less than the revenues they would have gained from unplanted fields. When there are large numbers of prevented acres, the impacts reach further than farmers - input companies like seed and fertilizer dealers lose revenue from lack of demand and crop insurance companies have to provide significant payouts.
+
+Generally, states with a higher percentage of their cropland acres utilizing cover crops fared better getting crops planted. South Dakota, which has [significantly less cropland acres](https://www.nass.usda.gov/Publications/AgCensus/2017/index.php) in cover crops than other states in the Midwest, had the [highest percentage of prevented acres](https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/crop-acreage-data/index), close to 20%, and the 20 counties in the Midwest with the most prevented acres, several well over 1000,000, were all in South Dakota. 
+
+On the other side of the Missouri River, Iowa, which is [second in the nation](https://www.nass.usda.gov/Publications/AgCensus/2017/index.php) for cover crop acreage, had [less than 2% of its acres prevented](https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/crop-acreage-data/index). 
+
+### Falling Behind Climate Change
+
+According to soil scientist Jennifer Moosre-Kucera, theoretically this trend should be steadfast across the Midwest, but flooding in 2019 was so extreme that cover crop acreage alone was not enough to determine a state’s defense against fields that were too wet to plant. [Illinois is right behind Iowa in cover crop acreage](https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/crop-acreage-data/index) and still had well over 1 million acres prevented.
+
+Moore-Kucera said even with the benefits of planting cover crops, farmers are facing an uphill battle against a quickly changing climate that brings increasingly extreme weather conditions. Last year was the [wettest year on record](https://www.ncdc.noaa.gov/temp-and-precip/us-maps/12/201904?products%5B%5D=nationalpcpnrank#us-maps-select) in the Midwest, and [projections](https://www.ucsusa.org/sites/default/files/2019-09/midwest-climate-impacts.pdf) accounting for climate change only indicate more precipitation in the future. 
+
+The benefit of being a cover crop-planting farmer even when floods steal your cash crop planting window is the ability to still sow the fields with cover crops to [try and build soil health in preparation for the next round of floods](https://ag.purdue.edu/agry/extension/Documents/PreventedPlantingCovers2015.pdf?_ga=2.163037246.360025555.1582957189-1650209321.1582957189). Rodney Rulon, a farmer from central Indiana who deploys cover crops, wrote in an [opinion piece for Agri-Pulse](https://www.agri-pulse.com/articles/12917-opinion-farmers-can-benefit-from-climate-legislation) that he couldn’t plant 20% of his planned corn acres because the timing of the heavy rains kept him out of his fields during the duration of the planting window. He decided to still plant those fields with cover crops because, “the soil health gains outweigh the planting costs,” he wrote.
+
+Rulon is following what the U.S. Global Change Research Program suggests is the best route to take. In its [Fourth National Climate Assessment](https://nca2018.globalchange.gov/chapter/10/), the program concludes that with changes to rainfall patterns, the wider use of “proven technologies and practices” like cover crops will be required for farmers to weather the changing climate —preventing soil erosion, waterlogging, and nutrient losses.
+
+Cover crop adoption rates are [going up](https://www.nass.usda.gov/Publications/AgCensus/2012/) across the Midwest. South Dakota had just under a 90% increase in cover crop acreage from the 2012 Census of Agriculture, and it’s not even in the top 20 nationally for percent increase. But experts say this rate needs to continue to increase and sooner rather than later.
+
+According to April Ann Opatik Murray, who works with the Great Lakes Protection Fund and American Farmland Trust, farmers don’t start to see the benefits of cover crops — like reduced erosion and increased soil water filtration and holding capacity— until after five to seven years of using the practice. And the changing climate isn’t waiting for farmland to be prepared.
+
+### Challenges to Cover Crop Adoption
+
+Starting to implement cover crops takes [initial investments](https://dl.sciencesocieties.org/publications/aj/abstracts/97/1/0322) in education, seeds, and often new equipment, something that can be difficult for farmers who have weathered a [tough couple of years](https://time.com/5736789/small-american-farmers-debt-crisis-extinction/).
+
+Additionally, [over 50% of cropland in the U.S. is rented](https://www.ers.usda.gov/webdocs/publications/74672/eib-161.pdf?v=0), with a large portion of leases being one year leases, discouraging farmers who want to implement cover crops to foot up-front costs to invest when they may not get to reap the benefits of healthier soil. Dan Lane, a corn and soybeans farmer in central Ohio who was studied as a [“soil health successful farmer”](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/soils/health/?cid=nrcseprd1470394) by USDA-NRCS and American Farmland Trust admitted to researchers that he only deploys cover crops on the land he owns and not the land he rents, “There is a lot of pressure from development in my county, so I’m afraid of losing my investment if the land is sold,” he said.
+Even if farmers own their land, Opatik-Murray said there is a class of farmers, “middle adopters,” who just take longer to jump into conservation practices. “There’s a lot of lagers out there that have to be proven by their neighbors’ success. You can’t change their minds with a sad puppy, but you usually can with a wheelbarrow of dollar bills.” 
+
+Opatik-Murray said agriculture professionals have the scientific and [economic evidence](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/soils/health/?cid=nrcseprd1470394) to show farmers, and they are working on [strategies to reach and convince middle-adopters](https://sandcountyfoundation.org/uploads/Stockwell-LMW-2017-middle-adopters.pdf) to invest in cover crops.
+
+In Iowa and Illinois, the state now offers [cover crop premium discount programs](https://www2.illinois.gov/sites/agr/Resources/LandWater/Pages/Cover-Crops-Premium-Discount-Program.aspx) to try and encourage more widespread cover crop adoption. The Illinois program reached its 50,000 acres cap seven days after it’s launch in December 2019. Opatik-Murray said she hopes the program will help Illinois have far fewer prevented acres when, inevitably, climate change hits the state with another extreme weather event.
